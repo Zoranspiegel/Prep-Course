@@ -61,7 +61,7 @@ flex-direction: column-reverse;
 #elementoUno {
 align-self: flex-end;
 }
-
+    
 #elementoCuatro {
 align-self: flex-start;
 }
