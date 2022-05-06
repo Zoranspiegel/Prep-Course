@@ -1,0 +1,28 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  background-image: url(https://as1.ftcdn.net/v2/jpg/02/04/18/98/1000_F_204189803_mAKH3EeRqoSHfSo5zEEh9cMXDI5eluEO.jpg);
+}
+
+h1 {
+  color: darkred;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  margin: auto;
+  height: 600px;
+  width: 500px;
+  background-color: burlywood;
+  padding: 50px;
+  border: 2px solid darkred;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
